@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tchikyy, My name is Belmadoui Mohamed Sabri
+- 👋 Hi, I’m @Sabri_blm, My name is Belmadoui Mohamed Sabri
 - I'am a computer science student who is finishing his Master's degree
 - 👀 I’m interested in coding/developing software
 - 🌱 I’m currently learning Dash (which is a plotly framework that work with javascript)
