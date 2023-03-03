@@ -8,11 +8,11 @@
 
 ```python
 def Sabri():
-  Artificial intelligence = ['NumPy', 'Scikit‑learn', 'TensorFlow', 'Matplotlib', 'Pandas', 'Pytorch', 'Yolo']
-  Languages and frameworks = ['Flask', 'PHP', 'HTML', 'CSS', 'javascript', 'java', 'C', 'JEE', 'dash']
-  Data base = ['SQL']
-  Software and platforms = ['Git', 'PyCharm', 'Visual Studio', 'Google Colab', 'Anaconda', 'Android Studio', 'overleaf (latex)', 'Figma', 'Wordpress']
-  Operating systems = ['Windows', 'Linux']
+  Artificial_intelligence = ['NumPy', 'Scikit‑learn', 'TensorFlow', 'Matplotlib', 'Pandas', 'Pytorch', 'Yolo']
+  Languages_and_frameworks = ['Flask', 'PHP', 'HTML', 'CSS', 'javascript', 'java', 'C', 'JEE', 'dash']
+  Data_base = ['SQL']
+  Software_and_platforms = ['Git', 'PyCharm', 'Visual Studio', 'Google Colab', 'Anaconda', 'Android Studio', 'overleaf (latex)', 'Figma', 'Wordpress']
+  Operating_systems = ['Windows', 'Linux']
   return ∞
 ```
 
