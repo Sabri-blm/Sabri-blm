@@ -7,13 +7,12 @@
 - LinkedIn : <a href="https://www.linkedin.com/in/sabri-belmadoui-1b5210206/">sabri belmadoui</a>
 
 ```python
-def abhishek():
-  skills_with_proficiency = ['Python', 'java', 'javascript', 'HTML & CSS', 'Intermidiate'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'flask', 'alteryx', 'keras']
-  cloud_architecture = ['heroku']
-  kaggle_competition = 1
-  analytics_vidhya_competitions = 5
-  dockship_competition = 1
+def Sabri():
+  Artificial intelligence = ['NumPy', 'Scikit‑learn', 'TensorFlow', 'Matplotlib', 'Pandas', 'Pytorch', 'Yolo']
+  Languages and frameworks = ['Flask', 'PHP', 'HTML', 'CSS', 'javascript', 'java', 'C', 'JEE', 'dash']
+  Data base = ['SQL']
+  Software and platforms = ['Git', 'PyCharm', 'Visual Studio', 'Google Colab', 'Anaconda', 'Android Studio', 'overleaf (latex)', 'Figma', 'Wordpress']
+  Operating systems = ['Windows', 'Linux']
   return ∞
 ```
 
