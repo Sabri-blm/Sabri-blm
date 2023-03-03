@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sabri_blm, My name is Belmadoui Mohamed Sabri
 - I'am a computer science student who is finishing his Master's degree
 - I’am a data analyst/web developper 
-- 🌱 I’am currently learning the mern stack (which is a plotly framework that work with javascript)
+- 🌱 I’am currently learning the mern stack
 - 📫 How to reach me :
-- email : sabriprofessional3@gmail.com
+- email : sabribelmadoui8@gmail.com
 - LinkedIn : <a href="https://www.linkedin.com/in/sabri-belmadoui-1b5210206/">sabri belmadoui</a>
 
 ```python
