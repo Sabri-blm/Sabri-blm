@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sabri_blm, My name is Belmadoui Mohamed Sabri
-- I'am a computer science student who is finishing his Master's degree
-- I’am a data analyst/web developper 
-- 🌱 I’am currently learning the mern stack
+- I am a computer science student who is finishing his Master's degree
+- I am a data scientist/web developer 
+- 🌱 I am currently working on a research project: modeling strategies of decision-making with Recurrent neural networks
 - 📫 How to reach me :
-- email : sabribelmadoui8@gmail.com
+- email: sabribelmadoui8@gmail.com
 - LinkedIn : <a href="https://www.linkedin.com/in/sabri-belmadoui-1b5210206/">sabri belmadoui</a>
 
 ```python
